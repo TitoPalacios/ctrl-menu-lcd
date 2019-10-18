@@ -3,8 +3,8 @@ How to use rotary encoder and lcd to manage information in tree menu format.
 -
 Libraries
 -
->DS3232RTC           Arduino Library for Maxim Integrated DS3232 and DS3231 Real-Time Clocks
->                    Jack Christensen    https://github.com/JChristensen/DS3232RTC.git
+>DS3232RTC - Arduino Library for Maxim Integrated DS3232 and DS3231 Real-Time Clocks
+>Jack Christensen [https://github.com/JChristensen/DS3232RTC.git]
 
 >Encoder             Quadrature Encoder Library for Arduino
 >                    Paul Stoffregen     https://github.com/PaulStoffregen/Encoder
