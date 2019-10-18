@@ -1,6 +1,6 @@
 # ctrl-menu-lcd
 How to use rotary encoder and lcd to manage information in tree menu format.
--
+
 Libraries
 -
 >**DS3232RTC** - Arduino Library for Maxim Integrated DS3232 and DS3231 Real-Time Clocks
