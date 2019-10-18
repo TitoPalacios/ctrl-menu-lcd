@@ -17,3 +17,7 @@ Libraries
 
 >**Time** - Time keeping library
 >-- Michael Margolis [https://github.com/PaulStoffregen/Time]
+
+
+# Notes
+I recommend to use a capacitor (0.01uF) between ground and each of the terminals of the rotary encoder to avoid debounce problem with the encoder.
