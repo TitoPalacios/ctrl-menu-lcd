@@ -2,6 +2,7 @@
 How to use rotary encoder and lcd to manage information in tree menu format.
 -
 Libraries
+-
 DS3232RTC           Arduino Library for Maxim Integrated DS3232 and DS3231 Real-Time Clocks
                     Jack Christensen    https://github.com/JChristensen/DS3232RTC.git
 
@@ -16,4 +17,3 @@ LiquidCrystal_I2C   Hitachi HD44780 & clone LCD screens over I²C expander PCF85
 
 Time                Time keeping library
                     Michael Margolis    https://github.com/PaulStoffregen/Time
--
